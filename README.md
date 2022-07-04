@@ -15,3 +15,4 @@ BottomHeatOff.
  •A plate must be turned off if its temperature exceeds 325°F
  •Assume that the temperature increments or decrements 1°F at a time
 ```
+![20AT61S01_1_1](https://user-images.githubusercontent.com/81389879/177146774-662a8a78-a634-4ba3-908c-31161f949349.jpg)
